@@ -14,15 +14,17 @@
     "portfolio",
     "experiencias",
     "canal",
-    "fullstack"
+    "fullstack",
+    "website"
   ],
-  "author": "itaaloalan",
+  "author": "italoalanw3@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/italoalanw3/portfolio/issues"
   },
   "homepage": "https://github.com/italoalanw3/portfolio#readme",
   "devDependencies": {
+    "bower": "^1.7.9",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
     "gulp-jshint": "^2.0.2",
