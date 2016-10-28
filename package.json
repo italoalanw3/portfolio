@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Meu portfolio, com minhas experiencias e meu canal para o mundo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italoalanw3/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "experiencias",
+    "canal",
+    "fullstack"
+  ],
+  "author": "itaaloalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/italoalanw3/portfolio/issues"
+  },
+  "homepage": "https://github.com/italoalanw3/portfolio#readme"
+}
