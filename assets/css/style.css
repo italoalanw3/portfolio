@@ -121,7 +121,7 @@ p {
 }
 /* Images */
 img {
-  border: 3px solid #dddddd;
+  border: 1px solid #000;
   margin: 15px;
   float: left;
 }
