@@ -6,7 +6,7 @@ var concat = require('gulp-concat');
 var rename = require('gulp-rename');
 
 // Diretório dos arquivos para evitar repetição no futuro
-var files = './src/*.js';
+var files = './assets/*';
 
 // Nova tarefa para executar o jshint
 gulp.task('lint', function(){
