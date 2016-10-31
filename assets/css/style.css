@@ -91,7 +91,6 @@ p {
 }
 .auth {
   text-align: right;
-  font-size: 16px;
 }
 /* Contact */
 .social a {
@@ -143,9 +142,6 @@ img {
   }
   h1 {
     font-size: 24px;
-  }
-  h2 {
-    font-size: 16px;
   }
   .social ul li {
     display: block;
@@ -209,7 +205,6 @@ a [class*=" icon-"] {
 /* makes the font 33% larger relative to the icon container */
 .icon-large:before {
   vertical-align: middle;
-  font-size: 1.3333333333333333em;
 }
 .btn [class^="icon-"],
 .nav-tabs [class^="icon-"],
@@ -892,7 +887,6 @@ ul.icons li .icon-large:before {
   line-height: 1.4em;
 }
 .icon-large {
-  font-size: 1.3333em;
 }
 .icon-glass {
   *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf000;&nbsp;');
